@@ -1,0 +1,19 @@
+docs/superpowers/specs/2026-06-16-vllm-provider-form-config-design.md
+  s_3b54c3494209fa::t_ae1b2333066f53 1-122
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "3970e28170c0207b1e80d4f4b49943461003d8ec",
+  "prompts": {},
+  "sessions": {
+    "s_3b54c3494209fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0282998-75cd-42f4-bfbf-dd5275830d4d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
