@@ -1,0 +1,22 @@
+frontend/src/pages/ai/components/ProviderForm/index.tsx
+  s_3b54c3494209fa::t_b342ed0bfefaa6 1237-1273,1228,1232,1234-1236
+  s_3b54c3494209fa::t_459d7eb5a1e0d8 173-174
+  s_3b54c3494209fa::t_9402830507bea4 223-230
+  s_3b54c3494209fa::t_e38029324dfd1d 1229-1231,1233
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "c69c9e9d2de317c228e3d3b35a1a028c5e893e60",
+  "prompts": {},
+  "sessions": {
+    "s_3b54c3494209fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0282998-75cd-42f4-bfbf-dd5275830d4d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
