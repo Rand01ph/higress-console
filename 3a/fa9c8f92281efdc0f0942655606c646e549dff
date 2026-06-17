@@ -1,0 +1,30 @@
+frontend/src/pages/ai/components/ProviderForm/index.tsx
+  s_3b54c3494209fa::t_4ede0f63985648 12-13
+  s_3b54c3494209fa::t_6d720ddde6572a 1326-1371
+  s_3b54c3494209fa::t_b5d31c93ecab79 176-177
+  s_3b54c3494209fa::t_f104bbe19a627a 244-251
+frontend/src/locales/en-US/translation.json
+  s_3b54c3494209fa::t_9415588f033ace 291-298
+  s_3b54c3494209fa::t_d214233b6397f7 357-361
+  s_3b54c3494209fa::t_11bf784c5c1369 373-374
+frontend/src/locales/zh-CN/translation.json
+  s_3b54c3494209fa::t_598cab7ad83204 373-374
+  s_3b54c3494209fa::t_a9342612a709ff 291-298
+  s_3b54c3494209fa::t_fd8bd714dd7f6d 357-361
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "3afa9c8f92281efdc0f0942655606c646e549dff",
+  "prompts": {},
+  "sessions": {
+    "s_3b54c3494209fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0282998-75cd-42f4-bfbf-dd5275830d4d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
