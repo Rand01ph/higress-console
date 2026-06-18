@@ -1,0 +1,27 @@
+frontend/src/locales/en-US/translation.json
+  s_3b54c3494209fa::t_39c1c5adf99b71 352-353
+  s_3b54c3494209fa::t_18bae9a46b749a 283-288
+  s_3b54c3494209fa::t_147a401004b271 338-340
+frontend/src/pages/ai/components/ProviderForm/index.tsx
+  s_3b54c3494209fa::t_4ce2fa338f18b1 1220-1257
+frontend/src/locales/zh-CN/translation.json
+  s_3b54c3494209fa::t_60e566b82b9c86 283-288
+  s_3b54c3494209fa::t_53c235a593a129 338-340
+  s_3b54c3494209fa::t_1e9a60a5041850 352-353
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "dec15eb869c49e7ba62ff40a7c6dca50581600e4",
+  "prompts": {},
+  "sessions": {
+    "s_3b54c3494209fa": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a0282998-75cd-42f4-bfbf-dd5275830d4d",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "tanyawei <tanyawei@intra.nsfocus.com>"
+    }
+  }
+}
